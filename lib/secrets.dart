@@ -1,0 +1,1 @@
+const openAIKey = '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';
